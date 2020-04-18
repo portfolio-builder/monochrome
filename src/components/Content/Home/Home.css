@@ -1,0 +1,18 @@
+.home-name{
+    font-size: 10vh;
+    text-align: center;
+    color: white;
+    padding-top: 35vh;
+    text-transform: capitalize;
+    
+    
+    
+}
+
+.home-tagline{
+    text-align: center;
+    color: white;
+    text-transform: capitalize;
+    font-size: 5vh;
+}
+
